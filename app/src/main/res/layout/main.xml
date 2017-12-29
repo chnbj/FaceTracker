@@ -4,8 +4,8 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/topLayout"
     android:orientation="vertical"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_width="1dp"
+    android:layout_height="1dp"
     android:keepScreenOn="true">
 
   <com.google.android.gms.samples.vision.face.facetracker.ui.camera.CameraSourcePreview
