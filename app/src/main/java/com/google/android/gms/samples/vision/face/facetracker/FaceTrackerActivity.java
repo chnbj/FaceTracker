@@ -331,8 +331,8 @@ public final class FaceTrackerActivity extends AppCompatActivity {
             mOverlay.add(mFaceGraphic);
             mFaceGraphic.updateFace(face);
 
-            Log.e("test", "test---------------" + detectionResults.detectorIsOperational());
-            Log.e("test", "test---------------" + face.getIsSmilingProbability());
+//            Log.e("test", "test---------------" + detectionResults.detectorIsOperational());
+//            Log.e("test", "test---------------" + face.getIsSmilingProbability());
         }
 
         /**
